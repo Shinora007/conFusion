@@ -4,3 +4,9 @@
 node_modules/
 platforms/
 plugins/
+/icon_old.png
+/splash_old.png
+/.gitignore
+/www.zip
+/www2.zip
+/www/lib/
